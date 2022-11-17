@@ -1,0 +1,10 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jeel Patel <patel.jeel@northeastern.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1253.0"
+  }
+}
