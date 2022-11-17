@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Zip File
+.zip
+
+#DS_Store
+.DS_Store
