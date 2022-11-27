@@ -4,3 +4,6 @@
 ```shell
 aws lambda update-function-code --function-name emailVerify --zip-file fileb://function.zip
 ```
+## :ninja: Author
+
+[Jeel Patel](mailto:patel.jeel@northeastern.edu)
