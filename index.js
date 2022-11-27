@@ -45,9 +45,8 @@ exports.handler = async function (event) {
     <body>
       <p>Hi, ${email}</p>
       <p>Thank you for registering at us\n.Please click on the below verification link to confirm your registration: \n</br></p>
-      
-      <p><a href="prod.jeeltpatel.me:3000/v1/verifyUserEmail?token=${token}&email=${email}">
-        prod.jeeltpatel.me:3000/v1/verifyUserEmail?token=${token}&email=${email} </a> </p>
+      <p><a href="https://prod.jeeltpatel.me/v1/verifyUserEmail?token=${token}&email=${email}">
+      https://prod.jeeltpatel.me/v1/verifyUserEmail?token=${token}&email=${email} </a> </p>
         <p>We're glad you're here! </p> <br>
         <p>Regards,</p><br>
         <p>Jeel Patel</p>
