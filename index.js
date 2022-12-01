@@ -48,7 +48,7 @@ exports.handler = async function (event) {
       <p><a href="https://prod.jeeltpatel.me/v1/verifyUserEmail?token=${token}&email=${email}">
       https://prod.jeeltpatel.me/v1/verifyUserEmail?token=${token}&email=${email} </a> </p>
         <p>We're glad you're here! </p> <br>
-        <p>Regards,</p><br>
+        <p>Thanks,</p><br>
         <p>Jeel Patel</p>
         </body></html>
     </body>
